@@ -1,4 +1,4 @@
-# GCN-MF
+
 
 ## Runing the code
 python gcn_train.py 'IMC' {fold}
